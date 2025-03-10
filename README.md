@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Snippets/data/images.png" alt="RAG Assistant App" width="350">
+  <img src="Streamlit/Snippets/data/images.png" alt="RAG Assistant App" width="350">
 </p>
 
 
